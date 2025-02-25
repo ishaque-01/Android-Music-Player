@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#129AAB</color> <!-- Custom Blue -->
+    <color name="primary_variant">#0F8795</color> <!-- Slightly Darker Blue -->
+    <color name="secondary">#FF8C00</color> <!-- Vibrant Orange for contrast -->
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color> <!-- White for light mode -->
+    <color name="background_dark">#121212</color> <!-- Deep Black for dark mode -->
+
+    <!-- Text Colors -->
+    <color name="text_primary_light">#212121</color> <!-- Dark Gray -->
+    <color name="text_primary_dark">#E0E0E0</color> <!-- Light Gray -->
+
+    <!-- Accent Colors -->
+    <color name="accent_purple">#9C27B0</color> <!-- Neon Purple -->
+    <color name="accent_yellow">#FFC107</color> <!-- Bright Yellow -->
+
+    <!-- Other UI Elements -->
+    <color name="surface_light">#F5F5F5</color> <!-- Soft Gray -->
+    <color name="surface_dark">#1E1E1E</color> <!-- Dark Gray -->
+</resources>
+
